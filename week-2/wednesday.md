@@ -8,6 +8,12 @@
 - [For First Time Students](../../../../algorithms-and-oo-checkpoint-challenge)
 - [For Students Repeating Phase 1](../../../../alt-algorithms-and-oo-checkpoint-challenge)
 
+**Pairing**
+Pairing is optional
+
+- [Pre-pair checklist](../resources/pair-checkin-tips.md)
+- [Leave Pair Feedback](../feedback.md)
+
 **Challenges**
 
 - [Web Scraping Challenge](../../../../web-scraping-challenge)

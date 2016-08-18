@@ -2,6 +2,9 @@
 ### OOP Practice
 
 ### Core
+**Pairing**
+- [Pre-pair checklist](../resources/pair-checkin-tips.md)
+- [Leave Pair Feedback](../feedback.md)
 
 **Challenges**
 

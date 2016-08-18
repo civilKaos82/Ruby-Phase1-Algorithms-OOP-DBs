@@ -2,6 +2,11 @@
 ### Assessments and ActiveRecord
 
 ### Core
+**Pairing**
+Pairing is optional
+
+- [Pre-pair checklist](../resources/pair-checkin-tips.md)
+- [Leave Pair Feedback](../feedback.md)
 
 **Challenges**
 

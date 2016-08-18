@@ -3,6 +3,12 @@
 
 ### Core
 
+**Pairing**
+Pairing is optional today
+
+- [Pre-pair checklist](../resources/pair-checkin-tips.md)
+- [Leave Pair Feedback](../feedback.md)
+
 **Challenges**
 
 - [Algorithm Drill: Factorial](../../../../algorithm-drill-factorial-challenge)

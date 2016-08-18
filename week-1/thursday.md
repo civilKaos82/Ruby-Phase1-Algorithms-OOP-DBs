@@ -7,6 +7,10 @@
 
 Object and References
 
+**Pairing**
+- [Pre-pair checklist](../resources/pair-checkin-tips.md)
+- [Leave Pair Feedback](../feedback.md)
+
 **Challenges**
 
 - [Data Drill: Nested Arrays](../../../../data-drill-nested-arrays-challenge)

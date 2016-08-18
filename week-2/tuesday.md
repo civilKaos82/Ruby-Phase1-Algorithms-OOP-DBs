@@ -4,6 +4,10 @@
 
 ### Core
 
+**Pairing**
+- [Pre-pair checklist](../resources/pair-checkin-tips.md)
+- [Leave Pair Feedback](../feedback.md)
+
 **Challenges**
 
 - [Parsing Data 1](../../../../parsing-data-1-csv-in-csv-out-challenge)

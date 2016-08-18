@@ -7,6 +7,10 @@
 
 [Intro to GitHub-based Challenge System](../resources/how_to_work_a_challenge.md)
 
+**Pairing**
+- [Pre-pair checklist](../resources/pair-checkin-tips.md)
+- [Leave Pair Feedback](../feedback.md)
+
 **Challenges**
 
 - [Cheering Mascot](../../../../cheering-mascot-challenge)
