@@ -45,24 +45,90 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
-- Yoga:
-  - <- FILL IN DETAILS HERE ->
-- Engineering Empathy (EE):
-  - <- FILL IN DETAILS HERE ->
+- Yoga: Tuesdays and Thursdays, 12.30 - 1.15 p.m. or  1.15 - 2.00 p.m.
 - Careers:
-  - <- FILL IN DETAILS HERE ->
+  - Wednesday Week 1 and Tuesday Week 3 after all school standup
+- Engineering Empathy: Tuesdays, 4:30 p.m. in the lodge (Monday on week 3)
+- Assessment: Wednesday from 9:15 - 12:45 p.m. (Week 3)
 - Cohort Fun Activities:
-  - <- FILL IN DETAILS HERE ->
-- Assessment:
-  - <- FILL IN DETAILS HERE ->
+  - Cohort bonding night Friday Week 1
 
 ## Daily Cadence
 
-<- FILL IN DETAILS HERE ->
-
-Time    | Activity
----     | ---
-        |
+<table>
+  <tr>
+    <td>
+      8:45
+    </td>
+    <td>
+      Check in with accountability buddies
+    </td>
+  </tr>
+  <tr>
+    <td>
+      9:00 - 9:15
+    </td>
+    <td>
+      Check-in
+    </td>
+  </tr>
+  <tr>
+    <td>
+      9:15 - 12:30
+    </td>
+    <td>
+      Challenges/Breakouts
+    </td>
+  </tr>
+  <tr>
+    <td>
+      12:30 - 2:00
+    </td>
+    <td>
+      Lunch
+    </td>
+  </tr>
+  <tr>
+    <td>
+      2:00 - 2:10
+    </td>
+    <td>
+      All School Standup
+    </td>
+  </tr>
+  <tr>
+    <td>
+      2:10 - 5:30
+    </td>
+    <td>
+      Challenges/Breakouts
+    </td>
+  </tr>
+  <tr>
+    <td>
+      5:30 - 5:40
+    </td>
+    <td>
+      Pair Feedback
+    </td>
+  </tr>
+  <tr>
+    <td>
+      5:40
+    </td>
+    <td>
+      Daily Standup
+    </td>
+  </tr>
+  <tr>
+    <td>
+      6:00
+    </td>
+    <td>
+      End of core hours. Challenges, optimize your learning
+    </td>
+  </tr>
+</table>
 
 ## Additional Resources
 - [Student Handbook](../../../student-handbook)
