@@ -1,0 +1,251 @@
+{
+    "groups": [
+        {
+            "label": "Week 1",
+            "sections": [
+                {
+                    "label": "Debugging",
+                    "skills": [
+                        {
+                            "label": "Reading Errors",
+                            "description": "I ALWAYS READ THE ERROR STACK TRACE"
+                        },
+                        {
+                            "label": "Identify Error Location",
+                            "description": "I identify the file and linenumber of the error from the stack trace"
+                        },
+                        {
+                            "label": "Use of p",
+                            "description": "I use p to print variable states to understand code"
+                        },
+                        {
+                            "label": "Use irb",
+                            "description": "I use irb to test review and understand code"
+                        },
+                        {
+                            "label": "Clear Tests",
+                            "description": "Build test methods with descriptive output and clear indicators of passing tests"
+                        }
+                    ]
+                },
+                {
+                    "label": "Git",
+                    "skills": [
+                        {
+                            "label": "Fork and clone",
+                            "description": "I know how to git fork and clone"
+                        },
+                        {
+                            "label": "Remotes",
+                            "description": "I know how to check which remotes are configured for my repository"
+                        }
+                    ]
+                },
+                {
+                    "label": "Ruby Programming Basics",
+                    "skills": [
+                        {
+                            "label": "loop n times",
+                            "description": "I know how to loop n times"
+                        },
+                        {
+                            "label": "#each vs #map",
+                            "description": "I know the difference between #each and #map"
+                        },
+                        {
+                            "label": "symbols",
+                            "description": "I know what a :symbol is"
+                        },
+                        {
+                            "label": "Ruby Branching",
+                            "description": "I know the difference between else and elsif"
+                        },
+                        {
+                            "label": "Return values",
+                            "description": "I can identify possible return values in code samples in challenges"
+                        },
+                        {
+                            "label": "Recursion vs Iteration",
+                            "description": "I can identify recursive and iterative code"
+                        },
+                        {
+                            "label": "case and when",
+                            "description": "I can read and understand case and when structure"
+                        },
+                        {
+                            "label": "Regular Expresssionsss",
+                            "description": "I use regular expressions"
+                        },
+                        {
+                            "label": "Enumerable",
+                            "description": "I have researched the Enumerable module"
+                        }
+                    ]
+                },
+                {
+                    "label": "Data Structures",
+                    "skills": [
+                        {
+                            "label": "Hash vs Array",
+                            "description": "I know when to use a Hash instead of an Array"
+                        },
+                        {
+                            "label": "Nested Arrays",
+                            "description": "I understand how to access nested array data"
+                        },
+                        {
+                            "label": "Linked List",
+                            "description": "I have implemented a Linked List data structure in Ruby"
+                        },
+                        {
+                            "label": "Stack",
+                            "description": "I have Implemented a Stack data structure in Ruby"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Week 2",
+            "sections": [
+                {
+                    "label": "Reading",
+                    "skills": [
+                        {
+                            "label": "POODR",
+                            "description": "I have read all of Practical Object Oriented Design in Ruby"
+                        }
+                    ]
+                },
+                {
+                    "label": "Principles",
+                    "skills": [
+                        {
+                            "label": "Single Responsibility Principle",
+                            "description": "I write methods that each have a single responsibility"
+                        }
+                    ]
+                },
+                {
+                    "label": "OOP",
+                    "skills": [
+                        {
+                            "label": "initialize",
+                            "description": "I how initialize is used"
+                        },
+                        {
+                            "label": "class",
+                            "description": "I how class is used define a new class"
+                        },
+                        {
+                            "label": "module",
+                            "description": "I how module is used to encapsulate behavior"
+                        },
+                        {
+                            "label": "Refactor with Inheritance",
+                            "description": "I know how to move code into a super class"
+                        },
+                        {
+                            "label": "Refactor with Module",
+                            "description": "I know how to move code into a module and include into a class "
+                        },
+                        {
+                            "label": "Method Lookup",
+                            "description": "I understand how method lookup works with inheritance"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "label": "Week 3",
+            "sections": [
+                {
+                    "label": "Relational Database Schemas",
+                    "skills": [
+                        {
+                            "label": "Primary Key",
+                            "description": "I can describe how primary keys are used"
+                        },
+                        {
+                            "label": "Foreign Key",
+                            "description": "I can describe how foreign keys are used"
+                        },
+                        {
+                            "label": "Table vs Database",
+                            "description": "I can describe difference between a table and a database"
+                        }
+                    ]
+                },
+                {
+                    "label": "SQL",
+                    "skills": [
+                        {
+                            "label": "CREATE TABLE",
+                            "description": "I know how to write a CREATE TABLE statement"
+                        },
+                        {
+                            "label": "SELECT columns",
+                            "description": "I know how to write a SELECT statement which specifies which columns to return"
+                        },
+                        {
+                            "label": "UPDATE",
+                            "description": "I know how to write an UPDATE statement which updates a single row"
+                        },
+                        {
+                            "label": "INSERT",
+                            "description": "I know how to write an INSERT statement which adds a new row"
+                        },
+                        {
+                            "label": "WHERE",
+                            "description": "I know how to use WHERE to specify which rows are affected"
+                        },
+                        {
+                            "label": "INNER vs OUTER JOIN",
+                            "description": "I can explain the difference between an INNER and an OUTER JOIN"
+                        }
+                    ]
+                },
+                {
+                    "label": "Principles",
+                    "skills": [
+                        {
+                            "label": "Single Responsibility Principle",
+                            "description": "I write methods that each have a single responsibility"
+                        }
+                    ]
+                },
+                {
+                    "label": "OOP",
+                    "skills": [
+                        {
+                            "label": "initialize",
+                            "description": "I how initialize is used"
+                        },
+                        {
+                            "label": "class",
+                            "description": "I how class is used define a new class"
+                        },
+                        {
+                            "label": "module",
+                            "description": "I how module is used to encapsulate behavior"
+                        },
+                        {
+                            "label": "Refactor with Inheritance",
+                            "description": "I know how to move code into a super class"
+                        },
+                        {
+                            "label": "Refactor with Module",
+                            "description": "I know how to move code into a module and include into a class "
+                        },
+                        {
+                            "label": "Method Lookup",
+                            "description": "I understand how method lookup works with inheritance"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
+

@@ -1,0 +1,241 @@
+{
+  "checkpoint-challenges" : [
+    "phase-1-checkpoint-challenge-1-working-with-ruby",
+    "phase-1-checkpoint-challenge-2-soda-machine",
+    "phase-1-checkpoint-challenge-3-teacher-refactoring"
+  ],
+  "week1" : {
+    "day1": {
+      "core" : [
+        "cheering-mascot-challenge",
+        "roman-numerals-challenge",
+        "debugging-drill-use-a-repl-challenge",
+        "debugging-drill-read-the-error-challenge",
+        "design-drill-code-style-challenge",
+        "design-drill-method-chaining-challenge"
+      ],
+      "stretch" : [
+        "99-bottles-challenge",
+        "battleship-challenge"
+      ]
+    },
+    "day2": {
+      "core" : [
+        "pig-latin-challenge",
+        "ruby-drill-regular-expressions-challenge",
+        "design-drill-translate-to-pseudocode-challenge",
+        "simple-benchmarking-with-blocks-challenge",
+        "ruby-drill-enumerable-methods-challenge",
+        "implement-enumerable-challenge",
+        "ruby-drill-destructive-methods-challenge",
+        "algorithm-drill-shuffle-challenge"
+      ],
+      "stretch" : [
+        "words-in-a-file-challenge",
+        "combating-smells-extract-method-challenge"
+      ]
+    },
+    "day3": {
+      "core" : [
+        "data-drill-nested-arrays-challenge",
+        "nested-arrays-2-ruby-for-conversion-and-seeding-challenge",
+        "ruby-racer-1-outrageous-fortune-challenge",
+        "ruby-word-search-challenge"
+      ],
+      "stretch" : [
+        "review-abstract-data-structures-challenge",
+        "data-drill-stack-and-queue-challenge",
+        "data-drill-linked-list-challenge",
+        "numbers-in-words-challenge"
+      ]
+    },
+    "day4": {
+      "core" : [
+        "algorithm-drill-factorial-challenge",
+        "the-fibonacci-sequence-challenge",
+        "recursion-vs-iteration-benchmarking-it-challenge",
+        "algorithm-drill-linear-search-challenge",
+        "algorithm-drill-binary-search-challenge",
+        "anagrams-1-detecting-anagrams-challenge",
+        "anagrams-2-generating-anagrams-challenge",
+        "algorithm-drill-prime-factors-challenge"
+      ],
+      "stretch" : [
+        "advanced-calculator-challenge",
+        "quad-ruby-meets-samuel-beckett-challenge",
+        "binary-vs-linear-searching-challenge",
+        "prime-factors-sieve-of-eratosthenes-challenge",
+        "ruby-drill-control-flow-in-loops-challenge",
+        "review-calculating-subsets-with-recursion-challenge"
+      ]
+    },
+    "day5": {
+      "core" : [
+        "sudoku-challenge"
+      ],
+      "stretch" : [
+      ]
+    },
+    "weekend": {
+      "core": [
+        "review-reflect-and-iterate-challenge",
+        "review-reflect-on-learning-challenge",
+        "review-revisit-roman-numeral-challenge"
+      ]
+    }
+  },
+  "week2" : {
+    "day1": {
+      "core" : [
+        "ruby-drill-accessor-methods-challenge",
+        "design-drill-public-vs-private-interfaces-challenge",
+        "ruby-drill-the-self-keyword-challenge",
+        "ruby-drill-exploring-scope-challenge",
+        "orange-tree-1-just-oranges-challenge"
+      ],
+      "stretch" : [
+      ]
+    },
+    "day2": {
+      "core" : [
+        "ruby-drill-argv-basics-challenge",
+        "design-drill-classical-inheritance-challenge",
+        "parsing-data-1-csv-in-csv-out-challenge",
+        "cookies-and-ovens-challenge",
+        "orange-tree-2-groves-challenge"
+      ],
+      "stretch" : [
+        "hospital-interface-challenge"
+      ]
+    },
+    "day3": {
+      "core" : [
+        "scraping-hn-1-building-objects-challenge",
+        "design-drill-argument-order-dependency-challenge",
+        "world-s-simplest-browser-challenge"
+      ],
+      "stretch" : [
+        "scraping-hn-2-saving-to-csv-challenge",
+        "the-rational-numbers-challenge"
+      ]
+    },
+    "day4": {
+      "core" : [
+        "guessing-game-challenge",
+        "parsing-data-2-csv-in-anything-out-challenge",
+        "ruby-todos-1-0-core-features-challenge",
+        "boggle-challenge"
+      ],
+      "stretch" : [
+        "ruby-todos-2-0-additional-features-challenge"
+      ]
+    },
+    "day5": {
+      "core" : [
+        "ruby-flashcards-1-single-deck-challenge"
+      ],
+      "stretch" : [
+      ]
+    },
+    "weekend" : {
+      "core" : [
+        "database-drill-student-roster-challenge",
+        "database-drill-one-to-many-schema-challenge",
+        "database-drill-one-to-one-schema-challenge",
+        "database-drill-many-to-many-schema-challenge",
+        "db-drill-address-book-schema-challenge",
+        "database-drill-intro-to-sqlite-challenge"
+      ],
+      "stretch" : [
+        "mastermind-challenge",
+        "p5-oo-inheritance-challenge",
+        "p6-oo-terminology-challenge"
+      ]
+    }
+  },
+  "week3" : {
+    "day1": {
+      "core" : [
+        "poll-database-design-challenge",
+        "poll-db-1-queries-challenge",
+        "poll-db-2-modifying-data-challenge"
+      ],
+      "stretch" : [
+        "design-your-own-database-challenge",
+        "imdb-database-design-challenge",
+        "reddit-jr-database-design-challenge",
+        "forum-database-design-challenge",
+        "database-drill-sqlite-shell-part-1-challenge",
+        "database-drill-sqlite-shell-part-2-challenge"
+      ]
+    },
+    "day2": {
+      "core" : [
+        "student-roster-db-from-schema-challenge",
+        "prepared-statements-challenge",
+        "university-course-database-design-challenge",
+        "address-book-db-from-schema-challenge",
+        "activerecord-jr-1-a-basic-orm-challenge"
+      ],
+      "stretch" : [
+        "many-to-many-schema-to-database-challenge",
+        "congress-database-1-from-csv-to-sqlite-with-ruby-challenge",
+        "congress-database-2-scrub-and-analyze-with-ruby-challenge",
+        "family-tree-database-design-challenge"
+      ]
+    },
+    "day3": {
+      "core" : [
+        "active-record-intro-code-base-challenge",
+        "active-record-intro-creating-tables-challenge",
+        "active-record-intro-editing-tables-challenge",
+        "active-record-intro-retrieving-records-challenge",
+        "active-record-intro-inserting-records-challenge",
+        "active-record-intro-objects-challenge"
+      ],
+      "stretch" : [
+      ]
+    },
+    "day4": {
+      "core" : [
+        "active-record-intro-belongs-to-association-challenge",
+        "active-record-intro-has-many-association-challenge",
+        "active-record-intro-validations-challenge",
+        "active-record-drill-model-a-student-challenge",
+        "active-record-legislators-challenge",
+        "active-record-legislator-tweets-challenge"
+      ],
+      "stretch" : [
+        "activerecord-jr-2-sql-be-gone-challenge",
+        "activerecord-jr-3-pragmatism-challenge",
+        "activerecord-jr-4-metaprogramming-challenge",
+        "congress-database-3-refactoring-congresspeople-refining-object-orientation-challenge",
+        "congress-database-4-deeper-analysis-with-ruby-challenge",
+        "database-drill-activerecord-associations-challenge",
+        "db-drill-ar-symmetric-migrations-challenge",
+        "database-drill-advanced-activerecord-migrations-challenge"
+      ]
+    },
+    "day5": {
+      "core" : [
+        "active-record-todos-challenge",
+        "activerecord-todos-part-2-challenge"
+      ],
+      "stretch" : [
+      ]
+    }
+  },
+  "unused_challenges" : [
+    "algorithms-and-oo-checkpoint-challenge",
+    "dictionary-sort-challenge",
+    "perfecting-pairing-challenge",
+    "review-enumerable-methods-challenge",
+    "review-others-refactor-yours-challenge",
+    "review-others-refactor-yours-deaf-grandma-roman-numerals-challenge",
+    "review-others-refactor-yours-week-2-challenge",
+    "teacher-refactoring-challenge",
+    "two-truths-and-a-lie",
+    "activerecord-design-your-own-challenge",
+    "active-record-associations-drill-at-the-races-challenge"
+  ]
+}
