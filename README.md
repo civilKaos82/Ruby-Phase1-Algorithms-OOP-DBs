@@ -135,7 +135,7 @@ Find your weekly groups [here](./resources/groups.md).
 - [Challenge Workflow](resources/how_to_work_a_challenge.md)
 - [Managing Github Notification Settings](resources/github-notification-settings.md)
 - [Pair Check-in Tips](resources/pair-checkin-tips.md)
-- [Counseling Session Signup](<- FILL IN DETAILS HERE ->)
+- [Counseling Session Signup](resources/counseling_instructions.md)
 - [Mentoring Signup](http://mentoring.devbootcamp.com/)
 - [Learning Competencies](resources/competencies.md)
 - [External Resources](resources/resources.md)
