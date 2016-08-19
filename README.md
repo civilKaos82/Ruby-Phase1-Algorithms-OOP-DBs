@@ -45,11 +45,14 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
-- Yoga: Tuesdays and Thursdays, 12.30 - 1.15 p.m. or  1.15 - 2.00 p.m.
+- Yoga: 
+  - Tuesdays and Thursdays, 12.30 - 1.15 p.m. or  1.15 - 2.00 p.m.
 - Careers:
   - Wednesday Week 1 and Tuesday Week 3 after all school standup
-- Engineering Empathy: Tuesdays, 4:30 p.m. in the lodge (Monday on week 3)
-- Assessment: Wednesday from 9:15 - 12:45 p.m. (Week 3)
+- Engineering Empathy: 
+  - Tuesdays, 4:30 p.m. in the lodge (Monday on week 3)
+- Assessment: 
+  - Wednesday from 9:15 - 12:45 p.m. (Week 3)
 - Cohort Fun Activities:
   - Cohort bonding night Friday Week 1
 
