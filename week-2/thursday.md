@@ -1,4 +1,18 @@
 ## Thursday
+
+## Schedule for the Day
+
+- 8.45: check in with accountability buddies
+- 9.00: Morning check-in (lodge)
+- 9.45: Challenges
+- 12.30: Lunch (active yoga at 12:30, relaxing at 1:15)
+- 2.00: All School Stand Up (Yoga space)
+- 2.10: Challenges
+- 5:30: Pair Feedback
+- 5:40: Phase 1 Stand up
+- 6.00: End of core hours
+
+Breakout will be scheduled at morning checkin.
 ### OOP Practice
 
 ### Core
