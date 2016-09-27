@@ -1,5 +1,21 @@
 ## Tuesday
+
+## Schedule for the Day
+
+- 8.45: check in with accountability buddies
+- 9.00: Morning check-in (lodge)
+- 9.45: Challenges
+- 12.30: Yoga intro session
+- 1.15: Lunch
+- 2.00: All School Stand Up (Yoga space)
+- 2.10: Challenges
+- 4:15: Pair Feedback
+- 4:30: Engineering Empathy (lodge)
+- 6.00: End of core hours
+
+
 ### Testing with RSpec and Enumerables
+
 
 ### Core
 
