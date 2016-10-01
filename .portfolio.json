@@ -2,7 +2,8 @@
   "checkpoint-challenges" : [
     "phase-1-checkpoint-challenge-1-working-with-ruby",
     "phase-1-checkpoint-challenge-2-soda-machine",
-    "phase-1-checkpoint-challenge-3-teacher-refactoring"
+    "phase-1-checkpoint-challenge-3-teacher-refactoring",
+    "phase-1-checkpoint-challenge-4"
   ],
   "week1" : {
     "day1": {
