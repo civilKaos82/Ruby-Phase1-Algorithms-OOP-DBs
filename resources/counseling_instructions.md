@@ -1,5 +1,5 @@
 # SF Counseling Instructions
 
-* Set up a session with Sefora or Ilya on their [calendar](https://www.google.com/calendar/selfsched?sstoken=UUtQaHJvRHgzX3U4fGRlZmF1bHR8Zjg1ZTQ3NmZhODQ1YTFhODcyMTczZDYwOGRmNTRhMWY)
+* Set up a session with Ilya on his [calendar](https://calendar.google.com/calendar/selfsched?sstoken=UUtlMklHMndhVjZyfGRlZmF1bHR8MmQzZTlhZTJmMDYxYWU2ZDE0MTZjMTk0MzI2Yzg0NDE)
 
 
