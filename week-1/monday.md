@@ -9,6 +9,7 @@
 - 11.30 AM: Phase 2 teaching Phase 1
 - 12.30: Lunch
 - 2.00: Challenges
+- 4:45: Live coding session in the lodge (workflow: tdd, pseudocoding, pry, git)
 - 5.30: Pair Feedback
 - 5.40: Standup in the Lodge
 - 6.00: End of core hours

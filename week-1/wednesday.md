@@ -1,5 +1,6 @@
 ## Wednesday
 ### Schedule
+- 8.45: check in with accountability buddies
 - 9 AM: Meet in lounge for check ins
 - 9.30: Challenges
 - 12.30 - 2.00: Lunch

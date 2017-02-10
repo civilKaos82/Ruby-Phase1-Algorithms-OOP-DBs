@@ -1,4 +1,15 @@
 ## Tuesday
+
+### Schedule for the Day
+- 8.45: check in with accountability buddies
+- 9 AM: Meet in lodge for check in
+- 9.30: Challenges
+- 12.30 - 2.00: Lunch
+- 2.00: All School Standup
+- 2.10: Challenges
+- Standup at 5:40 PM in the lodge
+- 6.00: End of core hours
+
 ### SQL and Ruby Integration
 
 ### Core

@@ -1,4 +1,19 @@
 ## Monday
+
+### Schedule for the Day
+
+- 8.45: check in with accountability buddies
+- 9 AM: Meet in lodge for check in
+- 10.00: Challenges
+- 12.30 - 2.00: Lunch
+- 2.00: All School Standup
+- 2.10: Checkpoint Challenge #2
+- 3.00 - 4:30 Challenges
+- 4:30 - 5:30 Sample solution to CPC #2 (and discuss Sudoku if there's time)
+- 5:30 - 5:45: Give in-person pair feedback
+- Standup at 5:45 PM in the lodge
+- 6.00: End of core hours
+
 ### Introduction to OOP
 
 ### Core

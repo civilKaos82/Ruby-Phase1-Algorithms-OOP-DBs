@@ -1,6 +1,17 @@
 ## Tuesday
-### Object Oriented Design with Inheritance and Composition
 
+### Schedule for the Day
+- 8.45: check in with accountability buddies
+- 9 AM: Meet in lodge for check in
+- 9.30: Challenges
+- 12.30 - 2.00: Lunch
+- 2.00: All School Standup
+- 2.10: Challenges
+- 4:15-4:30: Give in-person pair feedback
+- 4.30: Engineering Empathy session in the Lodge
+- 6.00: End of core hours
+
+### Object Oriented Design with Inheritance and Composition
 
 ### Core
 

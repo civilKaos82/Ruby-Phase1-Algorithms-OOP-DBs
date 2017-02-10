@@ -3,10 +3,11 @@
 ## Schedule for the Day
 
 - 8.45: check in with accountability buddies
-- 9.00: Morning check-in (lodge)
-- 9.45: Challenges
+- 9 AM: Pitches from phase 3 in the meadow (all-school)
+- 9.15 - 10.00: [Checkpoint Challenge #3](https://github.com/sf-wolves-2016/phase-1-checkpoint-challenge-3-teacher-refactoring)
+- 10:00: Challenges
 - 12.30: Lunch (active yoga at 12:30, relaxing at 1:15)
-- 2.00: All School Stand Up (Yoga space)
+- 2.00: All School Standup
 - 2.10: Challenges
 - 5:30: Pair Feedback
 - 5:40: Phase 1 Stand up
