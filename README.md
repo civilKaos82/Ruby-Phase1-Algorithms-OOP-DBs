@@ -45,8 +45,6 @@ Find your weekly groups [here](./resources/groups.md).
 
 ## Weekly Cadence
 
-- Yoga: 
-  - Tuesdays and Thursdays, 12.30 - 1.15 p.m. or  1.15 - 2.00 p.m.
 - Careers:
   - Wednesday Week 2 and Tuesday Week 3 after all school standup
 - Engineering Empathy: 
