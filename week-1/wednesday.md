@@ -1,12 +1,12 @@
 ## Wednesday
 ### Schedule
+
 - 8.45: check in with accountability buddies
 - 9 AM: Meet in lounge for check ins
-- 9.30: Challenges
+- 9.30: Challenges/Breakout
 - 12.30 - 2.00: Lunch
 - 2.00: All School Standup
-- 2.10: Breakout on stack/heap, recursion, discuss checkpoint challenges, talk about feedback form
-- 3.10ish: Challenges
+- 2.10: Challenges/Breakout
 - 5:30 - 5:45: Give in-person pair feedback
 - Standup at 5:45 PM in the lodge
 - 6.00: End of core hours

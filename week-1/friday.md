@@ -5,8 +5,8 @@
 - 8.45: check in with accountability buddies
 - **9 AM: All-School meeting in the meadow followed by individual group checkins**
 - 10:15: Cleaning
-- 10:30: Feedback (check your email for link)
-- 10:45: morning check-in
+- 10:30: Give [Feedback] (#link here)
+- 10:45: Morning check-in
 - 11.15: Sudoku
 - 12.30 - 2.00: Lunch
 - 2.00: All School Standup

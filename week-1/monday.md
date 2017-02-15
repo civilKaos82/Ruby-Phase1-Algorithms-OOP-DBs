@@ -6,10 +6,12 @@
 - 9.10: All School Orientation
 - 10.00: Breakfast
 - 10.30: Phase 1 Orientation
-- 11.30 AM: Phase 2 teaching Phase 1
+- 11:00: Intro to Github Breakout
+- 11:30: Challenges
 - 12.30: Lunch
-- 2.00: Challenges
-- 4:45: Live coding session in the lodge (workflow: tdd, pseudocoding, pry, git)
+- 2.00 AM: Phase 2 teaching Phase 1
+- 2:30 AM: Rules and Regulations, 3 Agreements Discussion
+- 3.00: Challenges
 - 5.30: Pair Feedback
 - 5.40: Standup in the Lodge
 - 6.00: End of core hours
