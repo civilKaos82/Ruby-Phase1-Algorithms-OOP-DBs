@@ -6,6 +6,7 @@
 - 9.30: Challenges/Breakout
 - 2.00: All School Stand Up (Meadow)
 - 2.10: Challenges/Breakout
+- 3:15: Checkpoint Challenge 1
 - 5:30: Pair Feedback
 - 5:40: Phase 1 Stand up
 - 6.00: End of core hours
