@@ -7,7 +7,7 @@
 - 12.30 - 2.00: Lunch
 - 2.00: All School Standup
 - 2.10: Challenges
-- 4.40: Engineering Empathy in the lodge
+- 4.30: Engineering Empathy in the lodge
 - 6.00: End of core hours
 
 ### Schema Design and Intro to SQL
