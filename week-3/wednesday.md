@@ -6,7 +6,8 @@
 - 9.15 - 12:45 : Phase 1 Assessment
 - 12.45 - 2.00: Lunch
 - 2.00: All School Standup
-- 2.10: Career Chat ( Career Space )
+- 2.00 - 4:00: Careers Workshop - Tech Landscape & A New Way to Job Hunt
+- 4:00 - 5:40: Challenges
 - Standup at 5:40 PM in the lodge
 - 6.00: End of core hours
 
