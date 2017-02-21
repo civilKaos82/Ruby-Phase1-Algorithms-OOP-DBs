@@ -46,7 +46,9 @@ Find your weekly groups [here](./resources/groups.md).
 ## Weekly Cadence
 
 - Careers:
-  - Wednesday Week 2 and Tuesday Week 3 after all school standup
+  - Week 1: Monday at 12 - 12:30pm
+  - Week 2: Monday at 9am - 11am
+  - Week 3: Wednesday at 2pm - 4pm
 - Engineering Empathy: 
   - Tuesdays, 4:30 p.m. in the lodge (Monday on week 3)
 - Assessment: 
