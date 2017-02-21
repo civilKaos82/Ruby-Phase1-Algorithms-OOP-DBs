@@ -3,8 +3,8 @@
 ### Schedule for the Day
 
 - 8.45: check in with accountability buddies
-- 9 AM: Meet in lodge for check in
-- 10.00: Challenges
+- 9 AM - 11:00: Resume & LinkedIn
+- 11.00: Challenges
 - 12.30 - 2.00: Lunch
 - 2.00: All School Standup
 - 2.15 - 5:30 Challenges

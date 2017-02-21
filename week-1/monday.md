@@ -8,6 +8,7 @@
 - 10.30: Phase 1 Orientation
 - 11:00: Intro to Github Breakout
 - 11:30: Challenges
+- 12:00: Intro to Careers 
 - 12.30: Lunch
 - 2.00 AM: Phase 2 teaching Phase 1
 - 2:30 AM: Rules and Regulations, 3 Agreements Discussion
