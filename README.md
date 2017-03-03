@@ -48,7 +48,7 @@ Find your weekly groups [here](./resources/groups.md).
 - Careers:
   - Week 1: Monday at 12 - 12:30pm
   - Week 2: Monday at 9am - 11am
-  - Week 3: Wednesday at 2pm - 4pm
+  - Week 3: Wednesday at 4pm - 6pm
 - Engineering Empathy: 
   - Tuesdays, 4:30 p.m. in the lodge (Monday on week 3)
 - Assessment: 
