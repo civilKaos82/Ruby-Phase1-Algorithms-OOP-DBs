@@ -1,4 +1,3 @@
-
 ## Friday
 
 ## Schedule for the Day
@@ -17,6 +16,8 @@
 ### Sudoku
 
 ### Core
+
+- _Morning_: EE: "Introvert / Extrovert"
 
 **Challenges**
 

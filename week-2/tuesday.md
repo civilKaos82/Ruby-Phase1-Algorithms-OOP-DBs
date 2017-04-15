@@ -1,16 +1,5 @@
 ## Tuesday
 
-### Schedule for the Day
-- 8.45: check in with accountability buddies
-- 9 AM: Meet in lodge for check in
-- 9:30: Challenges/Breakout
-- 12.30 - 2.00: Lunch
-- 2.00: All School Standup
-- 2.10: Challenges/Breakout
-- 4:15-4:30: Give in-person pair feedback
-- 4.30: Engineering Empathy session in the Lodge
-- 6.00: End of core hours
-
 ### Object Oriented Design with Inheritance and Composition
 
 ### Core
@@ -18,6 +7,8 @@
 **Pairing**
 - [Pre-pair checklist](../resources/pair-checkin-tips.md)
 - [Leave Pair Feedback](../feedback.md)
+
+- _90 minutes before lunch_: EE: "Inner Critic &amp; Resiliency"
 
 **Challenges**
 

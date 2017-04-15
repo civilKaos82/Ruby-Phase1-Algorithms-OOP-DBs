@@ -145,3 +145,4 @@ Find your weekly groups [here](./resources/groups.md).
 - [Phase Topic Schedule](resources/schedule.md)
 - [Working Agreement](resources/working-agreement.md)
 
+

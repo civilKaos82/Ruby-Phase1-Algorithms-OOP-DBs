@@ -23,10 +23,11 @@ Breakout will be scheduled at morning checkin.
 
 **Challenges**
 
+**It is important that you get through all these core challenges today as they are integral to the group work tomorrow.* 
+
 - [Active Record Intro: Validations](../../../../active-record-intro-validations-challenge)
 - [ActiveRecord Student Schema](../../../../active-record-drill-model-a-student-challenge)
-- [At The Races](../../../../active-record-associations-drill-at-the-races-challenge)
-- [Advanced Active Record](../../../../active-record-associations-drill-hotels-challenge)
+- [At The Races](../../../../active-record-associations-drill-at-the-races-challenge) 
 
 **Prep for Tomorrow**
 
@@ -36,7 +37,7 @@ Breakout will be scheduled at morning checkin.
 
 **Challenges**
 
-- [Active Record Congress DB 1](../../../../active-record-legislators-challenge)
+- [Active Record Todo's 1](../../../../active-record-todos-challenge)
 - [DB Drill - ActiveRecord Associations](../../../../database-drill-activerecord-associations-challenge)
 - [DB Drill - AR Symmetric Migrations](../../../../db-drill-ar-symmetric-migrations-challenge)
 - [Advanced Active Record Migrations](../../../../database-drill-advanced-activerecord-migrations-challenge)

@@ -1,18 +1,11 @@
 ## Monday
 
-### Schedule for the Day
-
-- 8.45: check in with accountability buddies
-- 9 AM - 11:00: Resume & LinkedIn
-- 11.00: Challenges
-- 12.30 - 2.00: Lunch
-- 2.00: All School Standup
-- 2.15 - 5:30 Challenges
-- 5:30 - 5:40: Give in-person pair feedback
-- Standup at 5:40 PM in the lodge
-- 6.00: End of core hours- 
-
 ### Introduction to OOP
+
+_Careers Preparation: This week we will begin Careers preparation workshops.
+These are brief-half hour lunch-n-learns which are desiged to help you hit your
+job-search running upon graduation. The day of delivery will be communicated by
+your faciliatators. The first topic is: **Tech Landscape**_
 
 ### Core
 

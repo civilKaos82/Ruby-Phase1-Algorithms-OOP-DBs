@@ -1,4 +1,5 @@
 ## Friday
+### Group Project with Active Record
 
 ## Schedule for the Day
 - **9 AM: group checkins**
@@ -15,4 +16,4 @@
 
 **Challenges**
 
-- [Active Record Todo's 1](../../../../active-record-todos-challenge) - Group Project
+- [Active Record Legislators](../../../../active-record-legislators-challenge) - Group Project
