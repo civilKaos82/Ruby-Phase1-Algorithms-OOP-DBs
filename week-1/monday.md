@@ -33,6 +33,8 @@ Clone this repo on either your personal laptop or a DBC workstation.  Create a b
 - [Solo Warmup Challenge](../../../../warmup-challenge) Work on this challenge Solo!
 
 
+**Pairing**
+
 - [Pre-pair checklist](../resources/pair-checkin-tips.md)
 - [Leave Pair Feedback](../feedback.md)
 
