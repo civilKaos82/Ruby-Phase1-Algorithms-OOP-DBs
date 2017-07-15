@@ -1,12 +1,13 @@
 {
   "week-1": {
     "monday": [
+      "warmup-challenge",
       "cheering-mascot-challenge",
       "roman-numerals-challenge",
       "debugging-drill-use-a-repl-challenge",
       "debugging-drill-read-the-error-challenge",
-      "design-drill-code-style-challenge",
       "design-drill-method-chaining-challenge",
+      "design-drill-code-style-challenge",
       "99-bottles-challenge",
       "battleship-challenge"
     ],
@@ -150,8 +151,7 @@
       "active-record-associations-drill-at-the-races-challenge",
       "active-record-todos-challenge",
       "database-drill-activerecord-associations-challenge",
-      "db-drill-ar-symmetric-migrations-challenge",
-      "database-drill-advanced-activerecord-migrations-challenge"
+      "db-drill-ar-symmetric-migrations-challenge"
     ],
     "friday": [
       "active-record-legislators-challenge"

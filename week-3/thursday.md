@@ -40,7 +40,6 @@ Breakout will be scheduled at morning checkin.
 - [Active Record Todo's 1](../../../../active-record-todos-challenge)
 - [DB Drill - ActiveRecord Associations](../../../../database-drill-activerecord-associations-challenge)
 - [DB Drill - AR Symmetric Migrations](../../../../db-drill-ar-symmetric-migrations-challenge)
-- [Advanced Active Record Migrations](../../../../database-drill-advanced-activerecord-migrations-challenge)
 
 ### Additional Resources
 
