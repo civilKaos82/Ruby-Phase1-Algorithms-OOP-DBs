@@ -46,7 +46,6 @@ Find your weekly groups [here](./resources/groups.md).
 ## Weekly Cadence
 
 - Careers:
-  - Week 1: Monday at 12 - 12:30pm
   - Week 2: Monday at 9am - 11am
   - Week 3: Wednesday at 4pm - 6pm
 - Engineering Empathy: 
