@@ -22,6 +22,11 @@ Gabriela Alessio <==> Jennifer Shopsin
 
 Angela Rivera <==> Scott Fulton <==> Thomas Chao
 
+### Tuesday
+### Wednesday
+### Thursday
+### Friday
+
 ## Week 2
 
 ## Week 3
