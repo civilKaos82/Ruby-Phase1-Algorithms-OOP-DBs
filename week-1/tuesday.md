@@ -5,6 +5,7 @@
 - 8.45: check in with accountability buddies
 - 9.00: Morning check-in (lodge)
 - 9.15: Challenges/Breakout
+- 11.30 - Lunch: Photos
 - 12.30: Lunch
 - 2.00: All School Stand Up ( Meadow )
 - 2.10: Challenges/Breakout
@@ -23,7 +24,7 @@
 - [Leave Pair Feedback](../feedback.md)
 
 **NOTE**: Your first EE is today!
-- _90 minutes before lunch_: EE: "Feedback and Pairing."
+- _4:30pm - 6:00pm_: EE: "Feedback and Pairing."
 
 **Challenges**
 
