@@ -24,45 +24,84 @@ Angela Rivera <==> Scott Fulton <==> Thomas Chao
 
 ### Tuesday
 
-##Barium
+ ## Barium
   * Hawken Ritter
   * Diana
   
-  ##Argon
+  ## Argon
   * Jennifer Shopsin
   * Nestor
   
-  ##Hydrogen
+  ## Hydrogen
   * Hugo Chen
   * Scott Fulton
   
-  ##Neptunium
+  ## Neptunium
   * Rio
   * Gloria A. Cruz
   
-  ##Actinium
+  ## Actinium
   * Filmon
   * J Ted Stamps
   
-  ##Thorium
+  ## Thorium
   * Ikuko Schoeller
   * Mark de Dios
   
-  ##Fermium
+  ## Fermium
   * Angie Rivera
   * Fulton Zink
   
-  ##Krypton
+  ## Krypton
   * Ashley Teow
   * Jenna Ritten
   
-  ##Potassium
+  ## Potassium
   * Leah
   * Gabriela
   
   
 ### Wednesday
+## OPTIONAL SOLO DAY
+
 ### Thursday
+
+## Feldspar
+* Leah Keilty
+* Fulton Zink
+
+## Topaz
+* J Ted Stamps
+* Jenna Ritten
+
+## Graphite
+* Ikuko Schoeller
+* Gloria A. Cruz
+
+## Pearl
+* Hawken Ritter
+* Diana Sandoval
+
+## Slate
+* Filmon Mengisteab
+* Jennifer Shopsin
+
+## Quartz
+* Scott Fulton
+* Angie Rivera
+
+## Amethyst
+* Rio Nose
+* Hugo Chen
+
+## Granite
+* Ashley Teow
+* Gabriela Alessio
+
+## Diamond
+* Nestor Ceron
+* Mark de Dios
+
 ### Friday
 
 ## Week 2
