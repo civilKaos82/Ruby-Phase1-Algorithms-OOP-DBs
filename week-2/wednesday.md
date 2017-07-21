@@ -1,15 +1,5 @@
 ## Wednesday
 
-### Schedule for the Day
-- 8.45: check in with accountability buddies
-- 9 AM: Meet in lodge for check in
-- 9.30: Checkpoint Challenge 2
-- 12.30 - 2.00: Lunch
-- 2.00: All School Standup
-- 2.10: Challenges/Breakout
-- Standup at 5:40 PM in the lodge
-- 6.00: End of core hours
-
 ### Solo Timed Challenge & OOP Practice
 
 ### Core
