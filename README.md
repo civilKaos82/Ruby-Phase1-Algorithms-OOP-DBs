@@ -46,10 +46,14 @@ Find your weekly groups [here](./resources/groups.md).
 ## Weekly Cadence
 
 - Careers:
+  - Week 1: Monday at 12 - 12:30pm
   - Week 2: Monday at 9am - 11am
   - Week 3: Wednesday at 4pm - 6pm
 - Engineering Empathy: 
-  - Tuesdays, 4:30 p.m. in the lodge (Monday on week 3)
+  - Week 1 - Tuesday, 11 a.m. in the lodge ( Feedback and Pairing )
+  - Week 1 - Friday, 11 a.m. in the lodge ( Introversion and Extroversion )
+  - Week 2 - Tuesday, 11 a.m. in the lodge ( Empathetic Teams )
+  - Week 3 - Tuesday, 11 a.m. in the lodge ( Inner Critic and Resiliency )
 - Assessment: 
   - Wednesday from 9:15 - 12:45 p.m. (Week 3)
 - Cohort Fun Activities:
