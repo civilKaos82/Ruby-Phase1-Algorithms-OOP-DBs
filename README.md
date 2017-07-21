@@ -51,7 +51,6 @@ Find your weekly groups [here](./resources/groups.md).
   - Week 3: Wednesday at 4pm - 6pm
 - Engineering Empathy: 
   - Week 1 - Tuesday, 11 a.m. in the lodge ( Feedback and Pairing )
-  - Week 1 - Friday, 11 a.m. in the lodge ( Introversion and Extroversion )
   - Week 2 - Tuesday, 11 a.m. in the lodge ( Empathetic Teams )
   - Week 3 - Tuesday, 11 a.m. in the lodge ( Inner Critic and Resiliency )
 - Assessment: 
