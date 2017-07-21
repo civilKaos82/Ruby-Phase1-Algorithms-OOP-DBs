@@ -104,6 +104,31 @@ Angela Rivera <==> Scott Fulton <==> Thomas Chao
 
 ### Friday
 
+## Nitrogen
+ * Hugo Chen
+ * Ikuko Schoeller
+ * Gloria A. Cruz
+ * Filmon Mengisteab
+ * Nestor Ceron
+
+ ## Strontium
+ * Diana Sandoval
+ * Jenna Ritten
+ * Angie Rivera
+ * Mark de Dios
+
+ ## Hydrogen
+ * Fulton Zink
+ * J Ted Stamps
+ * Hawken Ritter
+ * Jennifer Shopsin
+
+ ## Lanthanum
+ * Scott Fulton
+ * Leah Keilty
+ * Ashley Teow
+ * Rio Nose
+
 ## Week 2
 
 ## Week 3
