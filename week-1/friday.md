@@ -17,8 +17,6 @@
 
 ### Core
 
-- _Morning_: EE: "Introvert / Extrovert"
-
 **Challenges**
 
 - [Sudoku](../../../../sudoku-challenge)
