@@ -1,5 +1,38 @@
 # Weekly Groups
 
+## Week 2
+
+From Hunter: Place holder groups made. Choose your pairs each day out of these groups. Your phase lead may change this FYI.
+
+### awesome_print
+  * Filmon Mengisteab
+  * Scott Fulton
+  * Nestor Ceron
+  * Hugo Chen
+  
+### pry-byebug
+  * Rio Nose
+  * Fulton Zink
+  * Leah Keilty
+  * Ikuko Schoeller
+  
+### lolcat
+  * J Ted Stamps
+  * Angie Rivera
+  * Mark de Dios
+  * Diana Sandoval
+  
+### cowsay
+  * Gloria A. Cruz
+  * Ashley Teow
+  * Jennifer Shopsin
+  * Jenna Ritten
+  * Hawken Ritter
+  
+
+## Week 3
+
+
 ## Week 1
 
 ### Monday
@@ -128,35 +161,3 @@ Angela Rivera <==> Scott Fulton <==> Thomas Chao
  * Leah Keilty
  * Ashley Teow
  * Rio Nose
-
-## Week 2
-
-From Hunter: Place holder groups made. Choose your pairs each day out of these groups. Your phase lead may change this FYI.
-
-### awesome_print
-  * Filmon Mengisteab
-  * Scott Fulton
-  * Nestor Ceron
-  * Hugo Chen
-  
-### pry-byebug
-  * Rio Nose
-  * Fulton Zink
-  * Leah Keilty
-  * Ikuko Schoeller
-  
-### lolcat
-  * J Ted Stamps
-  * Angie Rivera
-  * Mark de Dios
-  * Diana Sandoval
-  
-### cowsay
-  * Gloria A. Cruz
-  * Ashley Teow
-  * Jennifer Shopsin
-  * Jenna Ritten
-  * Hawken Ritter
-  
-
-## Week 3
