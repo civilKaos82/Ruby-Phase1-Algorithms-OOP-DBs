@@ -5,6 +5,7 @@
 ### Core
 
 **Solo Challenges**
+
 You have 2 hours.
 
 - [For First Time Students](../../../../algorithms-and-oo-checkpoint-challenge)
