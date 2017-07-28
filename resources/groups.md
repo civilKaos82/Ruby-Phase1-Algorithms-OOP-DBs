@@ -1,163 +1,30 @@
-# Weekly Groups
+# Group Project Groups
 
-## Week 2
+## Friday
 
-From Hunter: Place holder groups made. Choose your pairs each day out of these groups. Your phase lead may change this FYI.
-
-### awesome_print
-  * Filmon Mengisteab
-  * Scott Fulton
-  * Nestor Ceron
-  * Hugo Chen
-  
-### pry-byebug
-  * Rio Nose
-  * Fulton Zink
-  * Leah Keilty
-  * Ikuko Schoeller
-  
-### lolcat
-  * J Ted Stamps
-  * Angie Rivera
-  * Mark de Dios
-  * Diana Sandoval
-  
-### cowsay
-  * Gloria A. Cruz
-  * Ashley Teow
-  * Jennifer Shopsin
-  * Jenna Ritten
-  * Hawken Ritter
-  
-
-## Week 3
-
-
-## Week 1
-
-### Monday
-
-Chaohua Chen <==> Nestor Ceron
-
-Filmon Mengisteab <==> Leah Keilty
-
-Hawken Ritter <==> Ikuko Schoeller
-
-Jenna Ritten <==> Gloria Cruz
-
-JT Stamps <==> Fulton Zink
-
-Mark de Dios <==> Diana Sandoval
-
-Rio Nose <==> Ashley Teow
-
-Gabriela Alessio <==> Jennifer Shopsin
-
-Angela Rivera <==> Scott Fulton <==> Thomas Chao
-
-### Tuesday
-
- ## Barium
-  * Hawken Ritter
-  * Diana
-  
-  ## Argon
-  * Jennifer Shopsin
-  * Nestor
-  
-  ## Hydrogen
-  * Hugo Chen
-  * Scott Fulton
-  
-  ## Neptunium
-  * Rio
-  * Gloria A. Cruz
-  
-  ## Actinium
-  * Filmon
-  * J Ted Stamps
-  
-  ## Thorium
-  * Ikuko Schoeller
-  * Mark de Dios
-  
-  ## Fermium
-  * Angie Rivera
-  * Fulton Zink
-  
-  ## Krypton
-  * Ashley Teow
-  * Jenna Ritten
-  
-  ## Potassium
-  * Leah
-  * Gabriela
-  
-  
-### Wednesday
-## OPTIONAL SOLO DAY
-
-### Thursday
-
-## Feldspar
+## Lynx
+* Rio Nose
 * Leah Keilty
-* Fulton Zink
-
-## Topaz
-* J Ted Stamps
+* Angie Rivera
 * Jenna Ritten
 
-## Graphite
-* Ikuko Schoeller
-* Gloria A. Cruz
-
-## Pearl
-* Hawken Ritter
-* Diana Sandoval
-
-## Slate
-* Filmon Mengisteab
-* Jennifer Shopsin
-
-## Quartz
-* Scott Fulton
-* Angie Rivera
-
-## Amethyst
-* Rio Nose
+## Eel
+* J Ted Stamps
 * Hugo Chen
-
-## Granite
-* Ashley Teow
-* Gabriela Alessio
-
-## Diamond
+* Diana Sandoval
 * Nestor Ceron
+
+## Hare
+* Filmon Mengisteab
+* Fulton Zink
 * Mark de Dios
 
-### Friday
+## Tiger
+* Hawken Ritter
+* Jennifer Shopsin
+* Scott Fulton
 
-## Nitrogen
- * Hugo Chen
- * Ikuko Schoeller
- * Gloria A. Cruz
- * Filmon Mengisteab
- * Nestor Ceron
-
- ## Strontium
- * Diana Sandoval
- * Jenna Ritten
- * Angie Rivera
- * Mark de Dios
-
- ## Hydrogen
- * Fulton Zink
- * J Ted Stamps
- * Hawken Ritter
- * Jennifer Shopsin
-
- ## Lanthanum
- * Scott Fulton
- * Leah Keilty
- * Ashley Teow
- * Rio Nose
+## Cobra
+* Ashley Teow
+* Ikuko Schoeller
+* Gloria A. Cruz
