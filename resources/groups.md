@@ -13,6 +13,8 @@
 * Rio Nose
 * Leah Keilty
 * Jenna Ritten
+* Joey Zink
+
 
 ## Eel
 * J Ted Stamps
@@ -20,14 +22,10 @@
 * Ashley Teow
 * Ikuko Schoeller
 
-## Hare
-* Filmon Mengisteab
-* Fulton Zink
-* Mark de Dios
-
 ## Tiger
 * Hawken Ritter
 * Jennifer Shopsin
 * Scott Fulton
+* Mark de Dios
 
 
