@@ -2,17 +2,23 @@
 
 ## Friday
 
+## Yeti 
+* Gloria 
+* Filmon
+* Nestor
+* Angie
+* Diana
+
 ## Lynx
 * Rio Nose
 * Leah Keilty
-* Angie Rivera
 * Jenna Ritten
 
 ## Eel
 * J Ted Stamps
 * Hugo Chen
-* Diana Sandoval
-* Nestor Ceron
+* Ashley Teow
+* Ikuko Schoeller
 
 ## Hare
 * Filmon Mengisteab
@@ -24,7 +30,4 @@
 * Jennifer Shopsin
 * Scott Fulton
 
-## Cobra
-* Ashley Teow
-* Ikuko Schoeller
-* Gloria A. Cruz
+
