@@ -1,31 +1,36 @@
-# Group Project Groups
+# Monday Pairs
 
-## Friday
+## Topaz
+  * Scott Fulton
+  * J Ted Stamps
+  
+## Graphite
+* Filmon Mengisteab
+* Diana Sandoval
 
-## Yeti 
-* Gloria 
-* Filmon
-* Nestor
-* Angie
-* Diana
-
-## Lynx
+## Feldspar
 * Rio Nose
+* Gloria A. Cruz
+
+## Marble
 * Leah Keilty
-* Jenna Ritten
-* Joey Zink
-
-
-## Eel
-* J Ted Stamps
-* Hugo Chen
 * Ashley Teow
-* Ikuko Schoeller
 
-## Tiger
+## Ice
+* Ikuko Schoeller
 * Hawken Ritter
+
+## Diamond
+* Fulton Zink
 * Jennifer Shopsin
-* Scott Fulton
+
+## Emerald
 * Mark de Dios
+* Nestor Ceron
+
+## Pearl
+* Jenna Ritten
+* Angie Rivera
+* Hugo Chen
 
 
