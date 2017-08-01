@@ -1,36 +1,34 @@
-# Monday Pairs
+# Tuesday Pairs
 
-## Topaz
-  * Scott Fulton
-  * J Ted Stamps
-  
-## Graphite
-* Filmon Mengisteab
-* Diana Sandoval
+## Olive
+ * Nestor Ceron
+ * Joey Zink
 
-## Feldspar
-* Rio Nose
-* Gloria A. Cruz
+ ## Green
+ * Ikuko Schoeller
+ * Hawken Ritter
 
-## Marble
-* Leah Keilty
-* Ashley Teow
+ ## Auburn
+ * Filmon Mengisteab
+ * Scott Fulton
 
-## Ice
-* Ikuko Schoeller
-* Hawken Ritter
+ ## Red
+ * Rio Nose
+ * Hugo Chen
 
-## Diamond
-* Fulton Zink
-* Jennifer Shopsin
+ ## Blue
+ * Jennifer Shopsin
+ * Angie Rivera
 
-## Emerald
-* Mark de Dios
-* Nestor Ceron
+ ## Purple
+ * Gloria A. Cruz
+ * Leah Keilty
 
-## Pearl
-* Jenna Ritten
-* Angie Rivera
-* Hugo Chen
+ ## Yellow
+ * J Ted Stamps
+ * Jenna Ritten
 
-
+ ## Cyan
+ * Diana Sandoval
+ * Ashley Teow
+ * Mark de Dios
