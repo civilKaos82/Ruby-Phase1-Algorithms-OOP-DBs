@@ -1,34 +1,36 @@
-# Tuesday Pairs
+# Thursday Pairs
 
-## Olive
- * Nestor Ceron
- * Joey Zink
-
- ## Green
- * Ikuko Schoeller
- * Hawken Ritter
-
- ## Auburn
- * Filmon Mengisteab
- * Scott Fulton
-
- ## Red
- * Rio Nose
- * Hugo Chen
-
- ## Blue
- * Jennifer Shopsin
- * Angie Rivera
-
- ## Purple
- * Gloria A. Cruz
- * Leah Keilty
-
- ## Yellow
- * J Ted Stamps
+## Cobalt
  * Jenna Ritten
+ * Jennifer Shopsin
 
- ## Cyan
- * Diana Sandoval
- * Ashley Teow
- * Mark de Dios
+## Brass
+* Ikuko Schoeller
+* Diana Sandoval
+
+## Silver
+* Leah Keilty
+* Angie Rivera
+
+## Platinum
+* Nestor Ceron
+* Scott Fulton
+
+## Chrome
+* Ashley Teow
+* Hugo Chen
+
+## Gold
+* Filmon Mengisteab
+* Hawken Ritter
+
+## Copper
+* Mark de Dios
+* Gloria A. Cruz
+
+## Bronze
+* Rio Nose
+* J Ted Stamps
+
+## Honeybadger
+* Joey
