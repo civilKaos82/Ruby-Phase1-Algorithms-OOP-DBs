@@ -1,36 +1,30 @@
-# Thursday Pairs
+# Friday Groups
 
-## Cobalt
- * Jenna Ritten
- * Jennifer Shopsin
+## Fluorine
+* J Ted Stamps
+* Jenna Ritten
+* Mark de Dios
+* Nestor Ceron
 
-## Brass
+## Plutonium
+* Jennifer Shopsin
 * Ikuko Schoeller
+* Filmon Mengisteab
 * Diana Sandoval
 
-## Silver
-* Leah Keilty
+## Radon
 * Angie Rivera
-
-## Platinum
-* Nestor Ceron
-* Scott Fulton
-
-## Chrome
-* Ashley Teow
+* Fulton Zink
 * Hugo Chen
 
-## Gold
-* Filmon Mengisteab
-* Hawken Ritter
-
-## Copper
-* Mark de Dios
+## Magnesium
+* Scott Fulton
 * Gloria A. Cruz
-
-## Bronze
 * Rio Nose
-* J Ted Stamps
 
-## Honeybadger
-* Joey
+## Xenon
+* Leah Keilty
+* Hawken Ritter
+* Ashley Teow
+
+
